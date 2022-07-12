@@ -1,0 +1,7 @@
+{
+    "numberOfGenerations": 50000,
+    "populationSize": 100,
+    "cxProbability": 0.5,
+    "mutProbability": 0.85,
+    "targetImage" : "3c.png"
+}
