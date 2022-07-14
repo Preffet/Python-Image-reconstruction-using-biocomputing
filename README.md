@@ -12,10 +12,8 @@ This is a biocomputing inspired Python application which can perform image recon
 </p>
 <p align="center">
  <b>|</b>------<b>Original image</b>-----<b>|</b>----------<b>Process</b>-------<b>|</b>----------<b>Result</b>---------<b>|</b></p><br>  
- 
-<p align="center"> <img width="198" alt="test2" src="[https://user-images.githubusercontent.com/84241003/178973614-14f9c21c-4d91-437a-babe-ae9c949fd490.png](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png)"></p>
-<p align="center"> ![3](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png) </p> 
-<p align="center">  ![2](https://user-images.githubusercontent.com/84241003/178999054-f64b862b-eddf-4e51-a378-478bbda32e50.gif)</p> 
+![3](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png)
+<p align="center"> ![2](https://user-images.githubusercontent.com/84241003/178999054-f64b862b-eddf-4e51-a378-478bbda32e50.gif) </p> 
 <p align="center"> <img width="198" alt="3result" src="https://user-images.githubusercontent.com/84241003/178973614-14f9c21c-4d91-437a-babe-ae9c949fd490.png"></p>
 <br><pre>
 <br>
