@@ -1,7 +1,7 @@
 
 ![banner3](https://user-images.githubusercontent.com/84241003/179009001-420b39a4-3eef-4253-b83c-4a6c1ec09180.gif)
 
-![728ec256d296fe679d6dfe0f8bfbc942](https://user-images.githubusercontent.com/84241003/179010300-e7a76dbf-add7-471d-8f00-94b427593974.png)
+![About the project](https://user-images.githubusercontent.com/84241003/179010586-60f10442-9134-4e75-83cb-3c5ccb0669c6.png)
 
 
 
