@@ -12,7 +12,7 @@ This is a biocomputing inspired Python application which can perform image recon
 </p>
 <br>
  <b>|</b>------<b>Original image</b>-----<b>|</b>----------<b>Process</b>-------<b>|</b>----------<b>Result</b>---------<b>|</b>  
-![3](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png)![2](https://user-images.githubusercontent.com/84241003/178999054-f64b862b-eddf-4e51-a378-478bbda32e50.gif)<img width="198" alt="3result" src="https://user-images.githubusercontent.com/84241003/178973614-14f9c21c-4d91-437a-babe-ae9c949fd490.png">
+ ![3](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png) ![2](https://user-images.githubusercontent.com/84241003/178999054-f64b862b-eddf-4e51-a378-478bbda32e50.gif) <img width="198" alt="3result" src="https://user-images.githubusercontent.com/84241003/178973614-14f9c21c-4d91-437a-babe-ae9c949fd490.png">
 <br>
 <br>
  <b>|</b>------<b>Original image</b>-----<b>|</b>----------<b>Process</b>-------<b>|</b>----------<b>Result</b>---------<b>|</b>  
