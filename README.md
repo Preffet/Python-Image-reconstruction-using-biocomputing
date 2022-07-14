@@ -10,7 +10,7 @@ This is a biocomputing inspired Python application which can perform image recon
 <b>‧₊˚ ✧Examples of image reconstruction✧‧₊˚ </b>
 <br>
 </p>
-
+<p align="center">
  <b>|</b>------<b>Original image</b>-----<b>|</b>----------<b>Process</b>-------<b>|</b>----------<b>Result</b>---------<b>|</b>  
 ![3](https://user-images.githubusercontent.com/84241003/178973605-23500bb4-0b9d-4f1a-a2d1-133d4169ba48.png)![2](https://user-images.githubusercontent.com/84241003/178999054-f64b862b-eddf-4e51-a378-478bbda32e50.gif)<img width="198" alt="3result" src="https://user-images.githubusercontent.com/84241003/178973614-14f9c21c-4d91-437a-babe-ae9c949fd490.png">
 <br><pre>
@@ -31,4 +31,4 @@ This is a biocomputing inspired Python application which can perform image recon
 
 
 ![0CNmdAuVHlL26TClTUpHElA72cMty8MEFIxMz6hWVKbrnrwFd2BK5ObugRJqN_Lf4I4LR6lKAhTBZ9iuT-8ZnbjWmNJQgio-Xrj5bBYY5ydeJN3MmxG4MgvX4ryv_5qqDl80KjgrmTIyHuNRZjpT88R7MKskC_CFQ-Ql8_z6cl691bn9aCNmyMyw3LMwpqu6UDboOQH8ZDKHvIBGH58NbQ](https://user-images.githubusercontent.com/84241003/178492412-b6b93642-b8b3-4ef3-b10e-fa9ee1c937d6.gif)
-
+</p>
