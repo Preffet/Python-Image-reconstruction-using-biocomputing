@@ -6,7 +6,7 @@
 <b> ‧₊˚ ✧About the project ✧‧₊˚</b>
 </p>
 This is a biocomputing inspired Python application which can perform image reconsturction using evolutionary algorithms and no more than 100 semi-transparent polygons. It contains a refference variant, which was created back in 2020 when I first got interested in biocomputing and three new variants which have been improved over the years by changing the selection function, updating the solution representation and improving the offspring generation strategy 
-<br><br><br>
+<br><br><br><br>
 <p  align="left" style="bold"><b>‧₊˚ ✧Examples of image reconstruction✧‧₊˚ </b></p><br>
  <b>|</b>------<b>Original image</b>-----<b>|</b>----------<b>Process</b>-------<b>|</b>----------<b>Result</b>---------<b>|</b><br>
  
