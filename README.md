@@ -1,3 +1,8 @@
+![Badge tracking last commit](https://img.shields.io/github/last-commit/Preffet/Python-Image-reconstruction-using-biocomputing?color=%23013987)
+![Badge tracking number of files](https://img.shields.io/github/directory-file-count/Preffet/Python-Image-reconstruction-using-biocomputing?color=%23016a87)
+![Badge tracking code size](https://img.shields.io/github/languages/code-size/Preffet/Python-Image-reconstruction-using-biocomputing?color=%2301877a)
+![Badge tracking repo size](https://img.shields.io/github/repo-size/Preffet/Python-Image-reconstruction-using-biocomputing?color=%23013987)
+![updated](https://user-images.githubusercontent.com/84241003/178457017-7126a06b-e0c1-484e-b0a8-c94b7f98ab2b.gif)
 
 
 ![banner3](https://user-images.githubusercontent.com/84241003/179009001-420b39a4-3eef-4253-b83c-4a6c1ec09180.gif)<br><br>
